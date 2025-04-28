@@ -1,2 +1,3 @@
 # learning-journal
-记录回顾个人学习笔记，方法和技术知识
+
+This is the tech study notes from beginning to pro, including methods and tech knowledges. 
